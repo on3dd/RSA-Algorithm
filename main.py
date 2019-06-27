@@ -1,5 +1,3 @@
-# coding: utf8
-
 '''
 620031587
 Net-Centric Computing Assignment
